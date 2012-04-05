@@ -1,0 +1,18 @@
+html, body, #page, .page {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.page {
+  background-color: #cfc;
+}
+
+.page.two {
+  background-color: #fcc;
+}
+
+.page.three {
+  background-color: #ccf;
+}
